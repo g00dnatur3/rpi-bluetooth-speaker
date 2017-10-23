@@ -1,0 +1,15 @@
+{
+  "name": "rpi-bluetooth-speaker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  	"dbus": "https://github.com/g00dnatur3/node-dbus.git",
+  	"node-log": "https://github.com/g00dnatur3/node-log.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Bouchard",
+  "license": "Apache 2.0"
+}
